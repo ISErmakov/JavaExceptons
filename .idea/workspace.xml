@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ceef71c-f9f8-4ee2-9d3b-9370864d7e16" name="Changes" comment="resolve Task 1">
-      <change afterPath="$PROJECT_DIR$/Homework2/Task2/Task2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework2/Task3/Task3.iml" afterDir="false" />
+    <list default="true" id="7ceef71c-f9f8-4ee2-9d3b-9370864d7e16" name="Changes" comment="resolve Task 2,3">
+      <change afterPath="$PROJECT_DIR$/Homework2/Task2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/Task3/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/Task4/Task4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/Task4/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +42,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "jdk.selected.JAVA_MODULE": "11",
-    "onboarding.tips.debug.path": "/home/user/IdeaProjects/JavaExceptions/Homework2/Task3/src/Main.java"
+    "onboarding.tips.debug.path": "/home/user/IdeaProjects/JavaExceptions/Homework2/Task4/src/Main.java"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -77,13 +78,22 @@
       <option name="project" value="LOCAL" />
       <updated>1698224384336</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="resolve Task 2,3">
+      <option name="closed" value="true" />
+      <created>1698225119778</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698225119778</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="resolve Task 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="resolve Task 1" />
+    <MESSAGE value="resolve Task 2,3" />
+    <option name="LAST_COMMIT_MESSAGE" value="resolve Task 2,3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
