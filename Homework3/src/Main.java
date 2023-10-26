@@ -1,0 +1,19 @@
+import Controller.*;
+import View.*;
+
+import java.io.IOException;
+
+// Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
+// then press Enter. You can now see whitespace characters in your code.
+public class Main {
+    public static void main(String[] args) {
+        iGetView view = new View();
+        iLoggable logger = new LogControl();
+        iController control = new Controller(view, logger);
+        try {
+            control.run();
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        }
+    }
+}
